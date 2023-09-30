@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D6A131CE-459D-03B6-FFBF-9A89C3F69A82}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RPGLearning",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
